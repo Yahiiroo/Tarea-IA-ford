@@ -1,0 +1,19 @@
+FORD GUÍA — Versión para la agencia Ford
+========================================
+SUBIR (GitHub web): descomprime, "Add file" > "Upload files", arrastra todo el contenido (sobrescribe). Commit; Render redespliega.
+IMPORTANTE: borra del repositorio el archivo data/info_campus.md (se reemplazó por data/info_agencia.md).
+No hay dependencias nuevas.
+
+QUÉ CAMBIÓ
+- Nombre: FORD GUÍA en chat, panel de administración, títulos, mensajes y API.
+- Logo y favicon: óvalo de Ford con fondo transparente (app/static/logo.png, logo_dark.png, favicon.png).
+- Colores: paleta Ford (#0A0606 #AAA0A1 #947355 #CBC7CB #281B17 #404981 #0974DE #03095D #7E8599 #083048).
+- Datos de la agencia: Navarrete y Reforma s/n, Colonia Centro, Hermosillo, Sonora · Contacto: Yahir López · 662 229 6547.
+- Catálogo (data/corpus.txt): 14 fichas de agencia — venta de autos nuevos, crédito, seguros, prueba de manejo,
+  taller, refacciones, garantía, flotillas, facturación y catálogo de pickups, SUV, deportivos/eléctricos/comerciales.
+- Perfiles de la API: "cliente", "empresa" o "todos" (antes "estudiante" y "profesor").
+
+REVISA ANTES DE PUBLICAR
+- Horarios, ubicaciones internas y responsables de las fichas marcadas "(ejemplo)".
+- La ficha facturacion-empresas tiene fecha antigua a propósito para mostrar el aviso de vigencia; actualízala.
+- Modelos y versiones del catálogo: confirma la disponibilidad vigente con la agencia.
